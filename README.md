@@ -2,7 +2,6 @@
 
 ## Table Of Contents
 - [Project Overview](#project-overview)
-- [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Analysis](#data-analysis)
 - [KPI Values](#kpi-values)
@@ -11,7 +10,7 @@
 
 ### Project Overview
 ---
-The objective is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Microsoft Excel.
+This project aims to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution using Microsoft Excel. By leveraging key performance indicators (KPIs) and data visualizations, the goal is to uncover valuable insights and identify opportunities for optimization. The findings will help improve operational efficiency, enhance customer experience, and drive better decision-making.
 
 KPI's Requirements:-
 - Total Sales: The overall revenue generated from all items sold.
@@ -21,24 +20,21 @@ KPI's Requirements:-
 
 ![Dashboard](https://github.com/theshreyasinharoy/Assets/blob/main/Blinkit.PNG)
 
-### Data Source
-- [Download Here](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)
-
 ### Tools
  - Microsoft Excel - Data Cleaning, Data Analysis, Creating Reports
     - [Download here](https://microsoft.com)
 
 ### Data Analysis
 - #### Data Collection:
-     - Gathered data from a reliable website to ensure comprehensive coverage of sales information.
+     - Collected data from a reliable source to ensure comprehensive coverage of sales information.
 - #### Data Loading and Cleaning:
-     - Imported the collected data into Microsoft Excel.
+     - Imported the dataset into Microsoft Excel.
 - #### Cleaned the data by:
-     - Removing unnecessary columns and duplicates.
-     - Handling missing values.
-     - Changing data types as needed.
+     - Removing unnecessary columns and duplicate entries.
+     - Handling missing values appropriately.
+     - Adjusting data types for consistency.
 - #### Data Analysis:
-     - Utilized pivot tables to perform detailed analysis.
+     - Used pivot tables to perform an in-depth analysis of sales, customer trends, and inventory distribution.
 
 ### KPI Values
 
@@ -49,14 +45,27 @@ KPI's Requirements:-
 
 ### Insights
 
-- The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating $0.18M in sales.
-- Tier 3 cities are driving the maximum sales of the company whereas tier 1 cities are at the minimum.
-- Despite being a crucial category, Health & Hygiene serves only 520 different items and derives sales of $0.07M only.
+- Top-Selling Categories: Fruits & Vegetables and Snack Foods lead sales, generating $0.18M in revenue.
+- City-Wise Sales Performance: Tier 3 cities contribute the highest sales, while Tier 1 cities show the lowest performance.
+- Health & Hygiene Category: Despite its importance, it offers only 520 products and generates a modest $0.07M in sales.
 
 ### Recommendations
 
-- Blinkit services are only available in type 1 Supermarkets of Tier 2 cities. Consider starting the services in type 2 and 3 Supermarkets and groceries while wisely choosing their locations according to demand.
-- Low-fat products are in high demand across all cities. Implementing high-quality services of low-fat products will benefit long-term sales.
-- Focus on expanding and supporting stores established in 2018 as they show higher revenue potential.
-- Investigate customer feedback to improve the average customer rating of 4.0 and enhance overall customer satisfaction.
-- Focus on the inventory services & product qualities across all establishments in tier 3 cities as sales in these outlets have been stagnant for almost 8 straight years.
+1. Expand Service Areas:
+
+   - Currently, Blinkit operates only in Type 1 Supermarkets of Tier 2 cities. Expanding to Type 2 & 3 supermarkets and local grocery stores in high-demand areas can boost sales.
+
+2. Leverage High-Demand Trends:
+
+   - Low-fat products are in high demand across all cities. Introducing high-quality, well-stocked options can drive long-term sales growth.
+Support High-Revenue Stores:
+
+   - Stores established in 2018 show strong revenue potential. Investing in their expansion and support could maximize profitability.
+
+3. Enhance Customer Satisfaction:
+
+   - The average customer rating is 4.0. Conducting detailed customer feedback analysis and implementing improvements can enhance user experience and loyalty.
+
+4. Optimize Inventory in Tier 3 Cities:
+
+   - Sales in Tier 3 city outlets have remained stagnant for eight years. Assessing inventory quality and optimizing product offerings can help drive growth in these locations.
