@@ -8,7 +8,7 @@
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 
-### Project Overview
+### Project Overview :
 ---
 This project aims to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution using Microsoft Excel. By leveraging key performance indicators (KPIs) and data visualizations, the goal is to uncover valuable insights and identify opportunities for optimization. The findings will help improve operational efficiency, enhance customer experience, and drive better decision-making.
 
@@ -18,7 +18,8 @@ KPI's Requirements:-
 - Number of items: The total count of different items sold.
 - Average Rating: The average customer rating for items sold.
 
-![Dashboard](https://github.com/theshreyasinharoy/Assets/blob/main/Blinkit.PNG)
+### Dashboard :
+![Dashboard](https://github.com/user-attachments/assets/eabced3b-aa71-4890-8098-a517ff75976d)
 
 ### Tools
  - Microsoft Excel - Data Cleaning, Data Analysis, Creating Reports
