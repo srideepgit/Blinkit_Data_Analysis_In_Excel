@@ -1,4 +1,4 @@
-# Blinkit_Data_Analysis_Using_Excel
+# Blinkit_Data_Analysis_On_Excel
 
 ## Table Of Contents
 - [Project Overview](#project-overview)
